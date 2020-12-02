@@ -1,0 +1,9 @@
+Source code in this repository is variously licensed under the Apache License
+Version 2.0, an Apache compatible license, or the fievm License. Outside of
+the "catherine" folder, source code in a given file is licensed under the Apache
+License Version 2.0, unless otherwise stated/noted at the beginning of the file or a
+LICENSE file present in the directory subtree declares a separate license.
+Within the "catherine" folder, source code in a given file is licensed under the
+fievm License, unless otherwise noted at the beginning of the file or a
+LICENSE file present in the directory subtree declares a separate license.
+

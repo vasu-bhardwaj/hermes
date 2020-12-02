@@ -1,2 +1,2 @@
 # hermes
- client-side application for managing cloud resources.
+ client-side application for managing  and montring cloud resources.
